@@ -1,0 +1,10 @@
+C:\Users\Students\Desktop\calculator-form\calculator-form\bin\Debug\calculator-form.exe.config
+C:\Users\Students\Desktop\calculator-form\calculator-form\bin\Debug\calculator-form.exe
+C:\Users\Students\Desktop\calculator-form\calculator-form\bin\Debug\calculator-form.pdb
+C:\Users\Students\Desktop\calculator-form\calculator-form\obj\Debug\calculator-form.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\calculator-form\calculator-form\obj\Debug\calculator_form.Form1.resources
+C:\Users\Students\Desktop\calculator-form\calculator-form\obj\Debug\calculator_form.Properties.Resources.resources
+C:\Users\Students\Desktop\calculator-form\calculator-form\obj\Debug\calculator-form.csproj.GenerateResource.cache
+C:\Users\Students\Desktop\calculator-form\calculator-form\obj\Debug\calculator-form.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\calculator-form\calculator-form\obj\Debug\calculator-form.exe
+C:\Users\Students\Desktop\calculator-form\calculator-form\obj\Debug\calculator-form.pdb

@@ -1,0 +1,7 @@
+C:\Users\Students\Desktop\firstwork\firstwork\bin\Debug\firstwork.exe.config
+C:\Users\Students\Desktop\firstwork\firstwork\bin\Debug\firstwork.exe
+C:\Users\Students\Desktop\firstwork\firstwork\bin\Debug\firstwork.pdb
+C:\Users\Students\Desktop\firstwork\firstwork\obj\Debug\firstwork.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\firstwork\firstwork\obj\Debug\firstwork.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\firstwork\firstwork\obj\Debug\firstwork.exe
+C:\Users\Students\Desktop\firstwork\firstwork\obj\Debug\firstwork.pdb

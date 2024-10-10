@@ -1,0 +1,10 @@
+C:\Users\Students\Desktop\C#Work\login_form\login_form\bin\Debug\login_form.exe.config
+C:\Users\Students\Desktop\C#Work\login_form\login_form\bin\Debug\login_form.exe
+C:\Users\Students\Desktop\C#Work\login_form\login_form\bin\Debug\login_form.pdb
+C:\Users\Students\Desktop\C#Work\login_form\login_form\obj\Debug\login_form.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\C#Work\login_form\login_form\obj\Debug\login_form.Form1.resources
+C:\Users\Students\Desktop\C#Work\login_form\login_form\obj\Debug\login_form.Properties.Resources.resources
+C:\Users\Students\Desktop\C#Work\login_form\login_form\obj\Debug\login_form.csproj.GenerateResource.cache
+C:\Users\Students\Desktop\C#Work\login_form\login_form\obj\Debug\login_form.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\C#Work\login_form\login_form\obj\Debug\login_form.exe
+C:\Users\Students\Desktop\C#Work\login_form\login_form\obj\Debug\login_form.pdb
