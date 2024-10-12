@@ -1,0 +1,10 @@
+C:\Users\Students\Desktop\C#Work\grade_calculator\grade_calculator\obj\Debug\grade_calculator.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\C#Work\grade_calculator\grade_calculator\obj\Debug\grade_calculator.Form1.resources
+C:\Users\Students\Desktop\C#Work\grade_calculator\grade_calculator\obj\Debug\grade_calculator.Properties.Resources.resources
+C:\Users\Students\Desktop\C#Work\grade_calculator\grade_calculator\obj\Debug\grade_calculator.csproj.GenerateResource.cache
+C:\Users\Students\Desktop\C#Work\grade_calculator\grade_calculator\obj\Debug\grade_calculator.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\C#Work\grade_calculator\grade_calculator\bin\Debug\grade_calculator.exe.config
+C:\Users\Students\Desktop\C#Work\grade_calculator\grade_calculator\bin\Debug\grade_calculator.exe
+C:\Users\Students\Desktop\C#Work\grade_calculator\grade_calculator\bin\Debug\grade_calculator.pdb
+C:\Users\Students\Desktop\C#Work\grade_calculator\grade_calculator\obj\Debug\grade_calculator.exe
+C:\Users\Students\Desktop\C#Work\grade_calculator\grade_calculator\obj\Debug\grade_calculator.pdb
