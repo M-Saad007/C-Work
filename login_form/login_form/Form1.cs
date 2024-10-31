@@ -24,22 +24,36 @@ namespace login_form
 
         private void button1_Click(object sender, EventArgs e)
         {
+            string connect = "Data Source=DESKTOP-B8AO3PN;Initial Catalog=login_info;Integrated Security=True";
+
             string email = textBox1.Text;
-            string password = textBox2.Text;
+            string pass = textBox2.Text;
 
 
-            string correctEmail = "saad@gmail.com";
-            string correctPassword = "12345";
-
-
-            if (email == correctEmail && password == correctPassword)
+            using (SqlConnection con = new SqlConnection(connect))
             {
-                MessageBox.Show("Login successful!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                con.Open();
+                string query = "INSERT INTO users (PersonID, Email, Pass) VALUES (@PersonID, @Email, @Pass)";
+
+                using (SqlCommand cmd = new SqlCommand(query, con))
+                {
+                    cmd.Parameters.AddWithValue("@PersonID", 10);
+                    cmd.Parameters.AddWithValue("@Email", email); 
+                    cmd.Parameters.AddWithValue("@Pass", pass); 
+
+                    try
+                    {
+                        cmd.ExecuteNonQuery();
+                        MessageBox.Show("Your data has been saved");
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Error: " + ex.Message);
+                    }
+                }
             }
-            else
-            {
-                MessageBox.Show("Invalid email or password. Please try again.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
+
         }
     }
+
 }
