@@ -1,0 +1,7 @@
+C:\Users\Students\Desktop\C#Work\Opp.Encapsulation\Opp.Encapsulation\bin\Debug\Opp.Encapsulation.exe.config
+C:\Users\Students\Desktop\C#Work\Opp.Encapsulation\Opp.Encapsulation\bin\Debug\Opp.Encapsulation.exe
+C:\Users\Students\Desktop\C#Work\Opp.Encapsulation\Opp.Encapsulation\bin\Debug\Opp.Encapsulation.pdb
+C:\Users\Students\Desktop\C#Work\Opp.Encapsulation\Opp.Encapsulation\obj\Debug\Opp.Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\C#Work\Opp.Encapsulation\Opp.Encapsulation\obj\Debug\Opp.Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\C#Work\Opp.Encapsulation\Opp.Encapsulation\obj\Debug\Opp.Encapsulation.exe
+C:\Users\Students\Desktop\C#Work\Opp.Encapsulation\Opp.Encapsulation\obj\Debug\Opp.Encapsulation.pdb
