@@ -1,0 +1,7 @@
+C:\Users\Students\Desktop\C#Work\Opps_Abstraction\Opps_Abstraction\obj\Debug\Opps_Abstraction.csproj.AssemblyReference.cache
+C:\Users\Students\Desktop\C#Work\Opps_Abstraction\Opps_Abstraction\obj\Debug\Opps_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Students\Desktop\C#Work\Opps_Abstraction\Opps_Abstraction\bin\Debug\Opps_Abstraction.exe.config
+C:\Users\Students\Desktop\C#Work\Opps_Abstraction\Opps_Abstraction\bin\Debug\Opps_Abstraction.exe
+C:\Users\Students\Desktop\C#Work\Opps_Abstraction\Opps_Abstraction\bin\Debug\Opps_Abstraction.pdb
+C:\Users\Students\Desktop\C#Work\Opps_Abstraction\Opps_Abstraction\obj\Debug\Opps_Abstraction.exe
+C:\Users\Students\Desktop\C#Work\Opps_Abstraction\Opps_Abstraction\obj\Debug\Opps_Abstraction.pdb
